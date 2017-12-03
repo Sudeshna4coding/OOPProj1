@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hw.TestHelloWorld" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-02-26T21:50:31" hostname="Asminas-MacBook-Air.local" time="0.007">
+  <properties/>
+  <testcase name="getYear" classname="hw.TestHelloWorld" time="0.006"/>
+  <testcase name="getMessage2" classname="hw.TestHelloWorld" time="0.001"/>
+  <testcase name="getMessage" classname="hw.TestHelloWorld" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
